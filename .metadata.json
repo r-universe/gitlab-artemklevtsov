@@ -1,0 +1,18 @@
+[
+  {
+    "package": "benchr",
+    "oncran": true
+  },
+  {
+    "package": "ced",
+    "oncran": true
+  },
+  {
+    "package": "RcppUUID",
+    "oncran": true
+  },
+  {
+    "package": "uchardet",
+    "oncran": true
+  }
+]
